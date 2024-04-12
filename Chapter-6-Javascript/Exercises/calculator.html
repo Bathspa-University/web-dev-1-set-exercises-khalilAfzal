@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Petroleum Calculator</title>
+  <link rel="stylesheet" type="text/css" href="petroleum_calculator.css">
+</head>
+<body>
+  <!--  All funtions for making the calculatore are inclueded-->
+  <h1>Petroleum Calculator</h1>
+  <form id="petroleumCalculatorForm"> 
+      <label for="quantity">Quantity (in Liters):</label> 
+    <input type="number" id="quantity" name="quantity" step="0.01" value="0"> 
+      <label for="price">Price (per Liter):</label> <!--This is the price input label for the petrol-->
+    <input type="number" id="price" name="price" step="0.01" value="1.72"> 
+     <input type="submit" value="Calculate"> 
+  </form>
+  <p id="result"></p> <!-- This is the function to display the result-->
+  <script src="calculator.js"></script> 
+</body>
+  </html>
