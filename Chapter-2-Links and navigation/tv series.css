@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-shadow: 0 0 10px black;
+}
+
+header {
+    background-color: #33000a;
+    padding: 10px 0;
+    color: white;
+    
+    
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #000000;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white
+}
+section{
+    line-height: 50px;
+}
+
+#Characters{
+    font-weight: bold;
+    text-align: inherit;
+}
+.class
