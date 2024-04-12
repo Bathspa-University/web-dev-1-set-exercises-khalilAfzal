@@ -1,0 +1,39 @@
+body {
+    padding: 5% 10%;
+    font-size: 1rem;
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(30, 30, 30);
+}
+ul {
+    list-style-type: none;
+    line-height: 2;
+}
+ol {
+    list-style-type: upper-roman;
+    list-style-position: outside;
+line-height: 1.5;
+}
+ul li {
+    color:whitesmoke;
+}
+ol li{
+  color: whitesmoke;
+}
+h1{
+    color: yellowgreen;
+}
+h2{
+color: yellowgreen;   
+}
+p {
+    color: whitesmoke;
+}
+header ,section {
+    font-size:xx-large;
+    color: gold;
+    background-color: rgb(5, 5, 5);
+    
+}
