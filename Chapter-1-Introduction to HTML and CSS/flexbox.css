@@ -1,0 +1,32 @@
+.container{
+    background-color: aliceblue;
+    width: 100px;
+    margin: 5px;
+    padding: 10px;
+    border: solid black;
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.item1{
+    background-color: darkorange;
+    text-align: center;
+    
+}
+.item2{
+    background-color: aqua;
+    text-align: center;
+}
+.item3{
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+.item4{
+    background-color: cadetblue;
+    text-align: center;
+}
+.items{
+    font-size: 20px;
+    font-weight: bold;
+text-align: center;
+}

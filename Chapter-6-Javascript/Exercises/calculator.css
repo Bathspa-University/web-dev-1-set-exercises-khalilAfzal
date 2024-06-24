@@ -2,7 +2,7 @@
     max-width: 300px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #f8f8f8;
+    background-color: red;
     border-radius: 5px;
     text-align: center;
   }
@@ -31,7 +31,7 @@
     input[type="submit"]  {
       width: 100%;
     padding: 10px;
-    background-color: #f09a37;
+    background-color: #37f097;
     color: #ffffff;
     border: none;
     cursor: pointer;
@@ -43,5 +43,5 @@
   }
 
     body {
-    background-color:     antiquewhite;
+    background-color:     rgb(48, 203, 246);
   }
